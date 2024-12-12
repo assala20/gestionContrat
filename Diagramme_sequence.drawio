@@ -793,10 +793,10 @@
         <mxCell id="9jD9Q91CgVgNfI2XXL_Y-207" value="[refus]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2010" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mF7304EmfyWJyVlitAoG-1" value="validated()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mF7304EmfyWJyVlitAoG-1" value="validated()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1540" y="328" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mF7304EmfyWJyVlitAoG-2" value="rejected()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mF7304EmfyWJyVlitAoG-2" value="rejected()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1535" y="528" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
